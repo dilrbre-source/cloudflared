@@ -1,0 +1,6 @@
+interface:
+  display_name: "Cloudflared"
+  short_description: "Repo-specific patterns and workflows for cloudflared"
+  default_prompt: "Use the cloudflared repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
